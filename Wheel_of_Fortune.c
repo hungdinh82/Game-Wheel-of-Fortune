@@ -222,7 +222,7 @@ int main()
             system("pause");
             break;
 
-            case 4:
+            case 4://Thoát chương trình
             break;
 
             case 5: // Clear man hinh
